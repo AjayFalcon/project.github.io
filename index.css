@@ -1,0 +1,11 @@
+.box{
+    align-content: right;
+    float: left;
+    margin:5px;
+}
+.list{
+    border: 5px solid lightgrey;
+    padding: 10px 20px;
+    background: grey;
+    align-content: right;
+}
